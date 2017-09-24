@@ -18,7 +18,7 @@ end
 
 gem 'closure_tree'
 gem 'bootstrap-sass'
-gem "recaptcha", github: 'ambethia/recaptcha', require: "recaptcha/rails"
+gem "recaptcha", github: 'wfschmitt/recaptcha', require: "recaptch/rails"
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '>= 4.0.2'
